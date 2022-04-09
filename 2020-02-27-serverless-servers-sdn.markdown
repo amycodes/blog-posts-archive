@@ -2,7 +2,7 @@
 layout: post
 title:  "Manage your Serverless Servers"
 date:   2020-02-27 14:00:00 -0600
-categories: blog
+categories: talk
 tags: update youtube talk
 published: true
 ---

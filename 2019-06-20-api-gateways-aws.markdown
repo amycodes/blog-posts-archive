@@ -2,7 +2,7 @@
 layout: post
 title:  "Gateways to Gateways: API Development in AWS"
 date:   2019-06-20 14:00:00 -0600
-categories: blog
+categories: talk
 tags: update youtube talk
 published: true
 ---

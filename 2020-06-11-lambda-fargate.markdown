@@ -2,7 +2,7 @@
 layout: post
 title: "Best Frenemies: Lambda, Fargate, and Serverless Containers"
 date:   2020-06-11 14:00:00 -0600
-categories: blog
+categories: talk
 tags: update youtube talk
 published: true
 ---

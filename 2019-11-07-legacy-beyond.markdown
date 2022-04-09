@@ -2,7 +2,7 @@
 layout: post
 title:  "Legacy ...and beyond!"
 date:   2019-11-07 14:00:00 -0600
-categories: blog
+categories: talk
 tags: update talk
 published: true
 ---

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Hello, World!"
-date:   2021-05-04 14:00:00 -0600
+date:   2022-04-03 14:00:00 -0600
+category: blog
 tags: update blog
 published: true
 ---

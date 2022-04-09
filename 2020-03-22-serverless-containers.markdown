@@ -2,7 +2,7 @@
 layout: post
 title:  "Best Frenemies: Serverless Containers"
 date:   2020-03-22 14:00:00 -0600
-categories: blog
+categories: talk
 tags: update talk
 published: true
 ---

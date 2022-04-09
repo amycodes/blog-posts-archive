@@ -2,7 +2,7 @@
 layout: post
 title:  "Live your best Tech Conference"
 date:   2020-03-10 14:00:00 -0600
-categories: blog
+categories: talk
 tags: update youtube talk
 published: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Gateways to Gateways: API Development in the Cloud"
 date:   2019-04-08 14:00:00 -0600
-categories: blog
+categories: talk
 tags: update youtube talk
 published: true
 ---

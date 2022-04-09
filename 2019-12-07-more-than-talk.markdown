@@ -2,7 +2,7 @@
 layout: post
 title:  "More than just Talk"
 date:   2019-12-07 14:00:00 -0600
-categories: blog
+categories: talk
 tags: update talk
 published: true
 ---

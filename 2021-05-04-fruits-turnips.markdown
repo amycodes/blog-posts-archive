@@ -2,7 +2,7 @@
 layout: post
 title: "Fruits and Turnips: Cost Optimization in Animal Crossing"
 date:   2021-05-04 14:00:00 -0600
-categories: blog
+categories: talk
 tags: update youtube talk
 published: true
 ---
