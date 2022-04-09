@@ -5,6 +5,7 @@ date:   2019-06-20 14:00:00 -0600
 categories: talk
 tags: update youtube talk
 published: true
+thumbnail: "talk/2019/06/20/cover.png"
 ---
 
 Treating APIs as a product can be the business case you need to push your application to the cloud. AWS can stand up legacy and new API implementations with low friction. This talk will show how to build Cloud Native APIs in AWS, Application Needs including Version Control and Monitoring, and how to go from Monolith to Serverless.

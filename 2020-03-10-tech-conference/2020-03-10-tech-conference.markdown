@@ -5,6 +5,7 @@ date:   2020-03-10 14:00:00 -0600
 categories: talk
 tags: update youtube talk
 published: true
+thumbnail: "talk/2020/03/10/cover.png"
 ---
 This talk will give a quick walkthrough of how to make the most of any tech conference including how to prepare, what to look out for, and what to skip.
 

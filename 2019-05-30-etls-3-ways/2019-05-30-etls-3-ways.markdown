@@ -5,6 +5,8 @@ date:   2019-05-30 14:00:00 -0600
 categories: talk
 tags: update youtube talk
 published: true
+thumbnail: "talk/2019/05/30/cover.png"
+
 ---
 
 ETLs are a staple in application development and data engineering. We will walk through a possible developer experience evolving an ETL in AWS with changing customer requirements.
