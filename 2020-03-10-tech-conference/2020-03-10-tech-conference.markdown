@@ -6,6 +6,7 @@ categories: talk
 tags: update youtube talk
 published: true
 thumbnail: "talk/2020/03/10/cover.png"
+keywords: networking, conference
 ---
 This talk will give a quick walkthrough of how to make the most of any tech conference including how to prepare, what to look out for, and what to skip.
 

@@ -5,6 +5,7 @@ date:   2021-05-04 14:00:00 -0600
 categories: talk
 tags: update youtube talk
 published: true
+keywords: cost optimization, cloud computing, cloud finance
 ---
 
 Our priorities inform what we do with our money. What do you really need those bells for? Are you trying to add an extension on your home or get a five star island? How will what you buy help? How do you plan to get those bells?

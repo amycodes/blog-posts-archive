@@ -6,6 +6,7 @@ categories: talk
 tags: update youtube talk
 published: true
 thumbnail: "talk/2019/09/26/cover.jpg"
+keywords: serverless, cloud architecture, containerization, faas, application development
 
 ---
 

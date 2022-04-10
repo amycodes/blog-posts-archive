@@ -6,6 +6,8 @@ categories: talk
 tags: update youtube talk
 published: true
 thumbnail: "talk/2019/04/08/cover.jpg"
+keywords: serverless, cloud architecture, api, faas
+
 ---
 
 Treating APIs as a product can be the business case you need to push your application to the cloud. The Big Four can stand up legacy and new API implementations with low friction. This talk will show how to build APIs in the Cloud, how it ties into IaaS, and the infamous Netflix API Gateway Model.

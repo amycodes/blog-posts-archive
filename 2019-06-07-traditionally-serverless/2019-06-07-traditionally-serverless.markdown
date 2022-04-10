@@ -6,6 +6,8 @@ categories: talk
 tags: update youtube talk
 published: true
 thumbnail: "talk/2019/06/07/cover.png"
+keywords: serverless, cloud architecture, application development, faas
+
 ---
 
 For traditional application engineers with a few years under their belt, technology trends like Serverless come and go. It’s hard to get excited if you’ve already lost time and energy to a trend that never got adopted. This talk will go over common arguments and open a path to Serverless Adoption.

@@ -6,6 +6,7 @@ categories: talk
 tags: update talk
 published: true
 thumbnail: "talk/2020/03/22/cover.png"
+keywords: cloud architecture, faas, serverless, containerization
 ---
 This talk will go over the limits of FaaS, how to make container changes to its container, and if containerized solutions can actually fix this problem.
 

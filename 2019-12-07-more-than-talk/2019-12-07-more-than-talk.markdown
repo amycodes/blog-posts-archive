@@ -6,6 +6,7 @@ categories: talk
 tags: update talk
 published: true
 thumbnail: "talk/2019/12/07/cover.jpg"
+keywords: technical speaking
 ---
 You've had your abstract accepted and now it's time to do some work. What should be on your slides? How long should it take? How do you prepare? Answer all of that and more at Own your Expertise!
 

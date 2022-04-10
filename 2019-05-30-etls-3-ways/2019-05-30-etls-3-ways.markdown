@@ -6,6 +6,7 @@ categories: talk
 tags: update youtube talk
 published: true
 thumbnail: "talk/2019/05/30/cover.png"
+keywords: serverless, cloud architecture, etl, faas, data transfer
 
 ---
 
