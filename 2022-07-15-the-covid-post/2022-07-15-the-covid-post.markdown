@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The COVID Post"
-date: 2022-07-15 00:00:00 -0600
+date: 2022-07-15 00:00:00 -0500
 category: irl
 tags: irl
 published: true
