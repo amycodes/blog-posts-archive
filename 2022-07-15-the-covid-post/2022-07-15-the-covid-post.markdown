@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "The COVID Post"
-date: 2022-07-15 14:00:00 -0600
+date: 2022-07-15 00:00:00 
 category: irl
 tags: irl
 published: true
-thumbnail: "blog/2022/07/15/cover.png"
+thumbnail: "irl/2022/07/15/cover.jpg"
 keywords: covid paxlovid long-covid
 ---
 
 On June 7th, I was doing a product launch livestream. This was a huge event for me and one I'm still very proud of. I've been doing technical speaking and development on serverless architectures for a few years so the opportunity to join a cloud provider launching its first Functions as a Service product was a huge experience for me and one that was very much my jam. Months of prep work and I was at the start of a glut of activities. This livestream was just the first. Half-way through, I started to feel winded.
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/vmYayQC_0BU" title="DigitalOcean Functions Launch Livestream" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="338" src="https://www.youtube.com/embed/vmYayQC_0BU" title="DigitalOcean Functions Launch Livestream" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Of course, that part was natural. I'm asthmatic already and talking in 'High Octane' mode for an hour would be a lot. I had also taken an at-home test the day before and I was negative for COVID-19, so it must have been my allergies.
 
@@ -47,7 +47,7 @@ But Paxlovid was a dang miracle. It's a 5-day regiment with 3 pills in the morni
 
 By Day 8, I was mobile and Livestreaming again. Because this launch was huge for me. Watch the tape back and you can hardly notice.
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/iNwQqOs5HFc" title="Getting Started With DigitalOcean Functions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="338" src="https://www.youtube.com/embed/iNwQqOs5HFc" title="Getting Started With DigitalOcean Functions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Day 10, I tested negative. I was so happy. I got hit a little harder than the rest of my family, but we all survived only a little worse for wear.
 
