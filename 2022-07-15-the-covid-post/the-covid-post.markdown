@@ -11,8 +11,6 @@ keywords: covid paxlovid long-covid
 
 On June 7th, I was doing a product launch livestream. This was a huge event for me and one I'm still very proud of. I've been doing technical speaking and development on serverless architectures for a few years so the opportunity to join a cloud provider launching its first Functions as a Service product was a huge experience for me and one that was very much my jam. Months of prep work and I was at the start of a glut of activities. This livestream was just the first. Half-way through, I started to feel winded.
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/vmYayQC_0BU" title="DigitalOcean Functions Launch Livestream" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Of course, that part was natural. I'm asthmatic already and talking in 'High Octane' mode for an hour would be a lot. I had also taken an at-home test the day before and I was negative for COVID-19, so it must have been my allergies.
 
 "It wasn't," says the narrator.
@@ -22,6 +20,8 @@ I had a minor asthma attack after the event during our post-show wrap-up where w
 I tested again, and I was _VERY POSITIVE_. You know you're positive if the line is bright red before the control line shows up.
 
 Did I mention I had three weeks of this promo to do?
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/vmYayQC_0BU" title="DigitalOcean Functions Launch Livestream" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I should mention how I got COVID. My parents went to a wedding for my anti-masker cousin's daughter because Their Freedom, I guess. I'm not saying there was an outbreak, but my dad did get COVID as well as one of my aunts (and allegedly everyone and their tables). My parents are in their 70s, so they were kept separate and my husband was out of the country, which meant I was taking care of everyone. Then my oldest son, aged 9 years old, got it, missing the last days of school who immediately got quarantined with my dad. The night before my livestream, my 6 year old son got it.
 
